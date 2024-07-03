@@ -1,0 +1,14 @@
+chroma-hnswlib-0.7.3
+chromadb-0.4.15
+huggingface-hub-0.23.3
+langchain-0.2.6
+langchain-community-0.2.6
+langchain-core-0.2.10
+langchain-experimental-0.0.62
+langchain-huggingface-0.0.3
+langchain-text-splitters-0.2.0
+langchainhub-0.1.17
+nltk-3.8.1
+docx-python
+pptx-python
+PyPDF2-3.0.1
